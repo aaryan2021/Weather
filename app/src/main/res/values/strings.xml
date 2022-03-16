@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApps</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="no_data_found">No data found</string>
+    <string name="ok">ok</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="please_wait">Please wait....</string>
+    <string name="no_internet">No Internet</string>
+</resources>
